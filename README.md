@@ -1,4 +1,4 @@
-# tailwind_marijuana
+# Marijuana Template
 ## Tailwind CSS
 
 This portfolio has a consistent and unified design with a consistent look and feel across all pages. With Tailwind's pre-defined color schemes, typography, and spacing, I have created a cohesive design without worrying about the inconsistencies that may arise when styling from scratch.
