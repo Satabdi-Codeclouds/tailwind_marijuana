@@ -1,9 +1,9 @@
 # tailwind_marijuana
 ## Tailwind CSS
 
-This portfolio demonstrates mastery and application of fundamental design skills around the grid, typography, color, mood, iconography & illustrations, and hierarchy.
-These visually appealing and consistent designs adhere to industry best practices.
+This portfolio has a consistent and unified design with a consistent look and feel across all pages. With Tailwind's pre-defined color schemes, typography, and spacing, I have created a cohesive design without worrying about the inconsistencies that may arise when styling from scratch.
 
-I have used industry-standard design tools Figma and Photoshop with an awareness of Design Principles.
+I have learned the utility class's usage so that I easily replicate designs across different parts of my website without repeatedly writing custom CSS. This wide array of utility classes of Tailwind CSS has been combined to create a unique design.
+
 # Preview-
 ![tailwind-project](https://github.com/user-attachments/assets/d5b04667-e32c-4327-8b06-e97a218e4913)
